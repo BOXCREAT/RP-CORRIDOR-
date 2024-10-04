@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 20
+
+## Media
+
+### Title
+panorama_53527B75_58E8_18AC_41BB_DD18CCACDB64.label = CORRIDOR
